@@ -1,0 +1,4 @@
+docker build -t hello-java-21 .
+docker run hello-java-21
+docker build -t login-app .
+docker run -it login-app
